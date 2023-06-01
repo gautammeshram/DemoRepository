@@ -16,3 +16,5 @@ This is changed now tutorial 9
 this is from master
 
 Bug fix included
+
+Bug fix included bugfix2
